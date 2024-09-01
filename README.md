@@ -47,14 +47,17 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 - Home Page
+  
 ![Home page](https://github.com/user-attachments/assets/d8fa1b4f-e537-44e0-aeb0-b1a9bb7c4c3d)
 
 
 - Upload PDF
+  
 ![upload](https://github.com/user-attachments/assets/dfcc4d06-3638-4b2e-9e7e-b2fd025398af)
 
 
 - Chat Interface
+  
 ![convo](https://github.com/user-attachments/assets/ffba443c-d067-4b64-bddd-aca26d6c59d3)
 
 ## Features
