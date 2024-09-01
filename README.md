@@ -26,7 +26,7 @@ This README file serves as the main documentation for the DocuGenie project. For
 | :-------- | :------- | :------------------------- |
 | `groq_api_key` | `string` | **Required**. Your API key |
 `huggingface_api_key` | `string`| **Required**. Your API key|
-`mistal_api_key`| `string`| **Optional**. Your API key|
+`mistral_api_key`| `string`| **Optional**. Your API key|
  
 
 
