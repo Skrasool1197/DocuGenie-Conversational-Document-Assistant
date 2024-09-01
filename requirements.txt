@@ -1,0 +1,13 @@
+langchain_core
+langchain_community
+langchain_groq
+langchain
+python-dotenv
+transformers
+langchain_huggingface
+sentence-transformers
+langchain_chroma
+langchain_mistralai
+gradio
+pypdf
+streamlit
