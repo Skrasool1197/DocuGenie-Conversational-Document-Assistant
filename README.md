@@ -7,7 +7,7 @@ Welcome to DocuGenie, your intelligent assistant for interactive conversations w
 
 
 
-## Introduction
+### Introduction
 - **DocuGenie** is designed to transform the way you interact with your PDF documents. Whether you're conducting research, extracting information, or simply navigating through large documents, DocuGenie provides an interactive chat-based interface that makes it easy to find the information you need quickly. To make the model accessible to users, **Streamlit** has been employed to develop a simple and interactive user interface.
 
 
